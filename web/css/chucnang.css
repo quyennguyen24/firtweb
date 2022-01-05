@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(101, 126, 117);
+}
+
+.table_show {
+    width: 100px;
+    height: 40px;
+    overflow: hidden;
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    background-color: rgb(20, 189, 180);
+    border-style: hidden;
+    border-radius: 12px;
+    margin-top: 10px;
+}

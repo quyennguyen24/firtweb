@@ -1,0 +1,53 @@
+body {
+    background-color: #CCFFCC !important;
+    color: rgb(17, 18, 19);
+}
+
+.menu ul {
+    list-style-type: none;
+}
+
+h4 {
+    margin-left: 40px;
+    size: 40px;
+}
+
+hr {
+    margin-left: 40px;
+}
+
+.ten {
+    text-align: center;
+    text-decoration: none;
+}
+
+.ten:hover {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.img {
+    transition: 0.5s;
+}
+
+.anh:hover img {
+    transform: rotate(5deg) scale(1);
+    opacity: 0.5;
+}
+
+footer {
+    background-color: #000011;
+    width: 100%;
+}
+
+.thanhcc {
+    background-color: #00FF33;
+}
+
+.thanhcc ul {
+    list-style-type: none;
+}
+
+.tt {
+    margin-bottom: 10px;
+}
